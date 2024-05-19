@@ -17,8 +17,8 @@ The main goal is to implement an Image Caption Generator using a combination of 
 For this project, we use the Flickr_8K dataset, which contains 8,091 images and their respective captions. This dataset is chosen for its manageable size, allowing for quicker training and testing.
 
 ### Dataset Structure
-Flickr8k_Dataset: Contains the image files.
-Flickr_8k_text: Contains text files with image captions, particularly the Flickr8k.token file, which includes image names and their corresponding captions.
+[Flickr8k_Dataset](https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip): Contains the image files.
+[Flickr_8k_text](https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip): Contains text files with image captions, particularly the Flickr8k.token file, which includes image names and their corresponding captions.
 
 ### Project Requirements
 Deep Learning Knowledge: Understanding of CNNs and RNNs, specifically LSTM.
