@@ -68,9 +68,14 @@ Libraries: TensorFlow, Keras, NumPy, Pillow, tqdm, JupyterLab.
 
 #### CNN (Convolutional Neural Network)
 CNNs are specialized neural networks capable of processing 2D matrix inputs such as images. They are effective for image classification tasks due to their ability to capture spatial hierarchies in images.
+![image](https://github.com/KhushJani/Image-Caption-Generator-Using-CNN-and-LSTM/assets/88198216/75a1a397-3d32-4785-b895-6f6fa1b1bbf3)
+
 
 ####  LSTM (Long Short-Term Memory)
 LSTMs are a type of Recurrent Neural Network (RNN) that excel at sequence prediction tasks. They are capable of maintaining long-term dependencies, making them suitable for generating coherent sequences of text.
+![image](https://github.com/KhushJani/Image-Caption-Generator-Using-CNN-and-LSTM/assets/88198216/d3ca0bc7-9d06-4e87-92af-aa6aeba4209b)
+
 
 #### Combined CNN-RNN Model
 By merging CNN and LSTM architectures, we create a powerful model that extracts image features using CNN and generates descriptions using LSTM. This approach leverages the strengths of both models to produce accurate and meaningful image captions.
+![image](https://github.com/KhushJani/Image-Caption-Generator-Using-CNN-and-LSTM/assets/88198216/3e1ab45e-9a8f-4b99-bef9-09f95f0d20dd)
